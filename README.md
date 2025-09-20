@@ -43,8 +43,6 @@ We provide:
 
 ![Streamlit App Screenshot](image/image_captioning_app_1.jpg)
 ![Streamlit App Screenshot](image/image_captioning_app_2.jpg)
-
-
 ![Streamlit App Screenshot](image/image_captioning_app_3.jpg)
 
 
